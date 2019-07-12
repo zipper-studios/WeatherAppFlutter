@@ -1,16 +1,7 @@
-# weather_app
+# Weather app with Flutter
 
-A new Flutter application.
+This is an example of FLutter application that fetches the London's weather data from a public API. It is build using the reactive programming and structured under the BLoC pattern. You can find all step-by-step implementation details in a [Medium](https://medium.com/p/b826f80d6996/edit) article designed to prove the reactive programming and the BLoC pattern concepts in Flutter.  
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+    <img src="/screenshots/weather_app.png" width="400px"</img> 
+</div>
